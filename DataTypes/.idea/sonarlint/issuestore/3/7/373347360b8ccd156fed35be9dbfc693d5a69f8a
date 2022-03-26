@@ -1,0 +1,28 @@
+
+K
+java:S1854	"5Remove this useless assignment to local variable "g".(¹«˜Á
+K
+java:S1854"5Remove this useless assignment to local variable "f".(·€á”
+P
+java:S1854"5Remove this useless assignment to local variable "e".(ï¤¹ÿÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "d".(İã¶Ú
+K
+java:S1854"5Remove this useless assignment to local variable "c".(ûºıÔ
+K
+java:S1854"5Remove this useless assignment to local variable "b".(¿ä†ˆ
+<
+java:S1481"&Remove this unused "b" local variable.(¿ä†ˆ
+<
+java:S1481"&Remove this unused "c" local variable.(ûºıÔ
+<
+java:S1481"&Remove this unused "d" local variable.(İã¶Ú
+A
+java:S1481"&Remove this unused "e" local variable.(ï¤¹ÿÿÿÿÿ
+<
+java:S1481"&Remove this unused "f" local variable.(·€á”
+<
+java:S1481	"&Remove this unused "g" local variable.(¹«˜Á
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8šíŸü/
+0
+java:S1220""Move this file to a named package.

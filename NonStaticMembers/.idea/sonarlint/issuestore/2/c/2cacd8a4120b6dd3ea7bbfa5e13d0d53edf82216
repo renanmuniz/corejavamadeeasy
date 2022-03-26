@@ -1,0 +1,13 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¿è®Î8¸ôšü/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(€óÿÉøÿÿÿÿ8ÌÀİü/
+U
+java:S1854"8Remove this useless assignment to local variable "obj2".(ëÉÍÿ8Èºšü/
+Y
+java:S1854"7Remove this useless assignment to local variable "obj".(åó¦éÿÿÿÿÿ8Èºšü/
+J
+java:S1481"(Remove this unused "obj" local variable.(åó¦éÿÿÿÿÿ8Ëºšü/
+F
+java:S1481")Remove this unused "obj2" local variable.(ëÉÍÿ8ÍèÚü/
+0
+java:S1220""Move this file to a named package.
