@@ -1,0 +1,21 @@
+
+R
+java:S1854	"5Remove this useless assignment to local variable "c".(ºÌ›º8æ§¢¸ü/
+R
+java:S1854"5Remove this useless assignment to local variable "b".(þçç¬8°Ö ¸ü/
+K
+java:S1854"5Remove this useless assignment to local variable "a".(ÞþÆº
+4
+java:S2129"Remove this "Long" constructor(ÞþÆº
+^
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(ÞþÆº
+<
+java:S1481"&Remove this unused "a" local variable.(ÞþÆº
+e
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(þçç¬8¹Ö ¸ü/
+C
+java:S1481"&Remove this unused "b" local variable.(þçç¬8ºÖ ¸ü/
+C
+java:S1481	"&Remove this unused "c" local variable.(ºÌ›º8ð…£¸ü/
+0
+java:S1220""Move this file to a named package.

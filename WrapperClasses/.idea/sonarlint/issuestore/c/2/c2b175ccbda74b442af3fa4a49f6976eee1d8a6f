@@ -1,0 +1,15 @@
+
+R
+java:S1854"5Remove this useless assignment to local variable "e".(яћо™8“фіЄь/
+P
+java:S1854	"5Remove this useless assignment to local variable "z".(вя‘ещ€€€€
+^
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(лЈпЋ
+T
+java:S2130	"9Use "Integer.parseInt" for this string-to-int conversion.(вя‘ещ€€€€
+A
+java:S1481	"&Remove this unused "z" local variable.(вя‘ещ€€€€
+C
+java:S1481"&Remove this unused "e" local variable.(яћо™8ёфіЄь/
+0
+java:S1220""Move this file to a named package.
